@@ -1,4 +1,11 @@
 streamlit
-pandas
 numpy
+pandas
 plotly
+pillow
+requests
+opencv-python-headless
+tensorflow
+torch
+transformers
+scikit-learn
