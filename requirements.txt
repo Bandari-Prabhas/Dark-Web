@@ -6,6 +6,7 @@ pillow
 requests
 opencv-python-headless
 tensorflow
+tf-keras
 torch
 transformers
 scikit-learn
